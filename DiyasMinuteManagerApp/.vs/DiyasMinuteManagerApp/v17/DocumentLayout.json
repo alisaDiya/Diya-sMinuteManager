@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\capturemeetingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\models\\meetingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,40 +71,8 @@
       "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\capturemeetingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\capturemeetingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\managemeetingitemsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|c:\\github projects\\diya-sminutemanager\\diyasminutemanagerapp\\diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|solutionrelative:diyasminutemanagerapp\\forms\\editmeetingitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE9887EA-75AB-42F7-83B3-6C8126414C7A}|DiyasMinuteManagerApp\\DiyasMinuteManagerApp.csproj|C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\diyasminutemanagerapp\\forms\\editmeetingitemform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,59 +118,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MeetingRepository.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABOAAAA",
+              "DocumentIndex": 2,
+              "Title": "EditMeetingItemForm.cs [Design]",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs [Design]",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:43:45.03Z",
+              "WhenOpened": "2024-12-02T14:03:33.224Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\Form1.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:51:21.403Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manageMeetingItemsForm.cs [Design]",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs [Design]",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:07:13.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "captureMeetingForm.Designer.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:19.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MeetingTypeRepository.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Title": "captureMeetingForm.cs [Design]",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs [Design]",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:44:14.724Z",
+              "WhenOpened": "2024-12-02T14:11:05.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "captureMeetingForm.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAtwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:06:24.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Meeting.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\Meeting.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\Meeting.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\Meeting.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Models\\Meeting.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "DocumentIndex": 6,
+              "Title": "EditMeetingItemForm.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAD4vykAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:19:12.037Z",
+              "WhenOpened": "2024-12-02T14:03:35.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MeetingItem.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "DocumentIndex": 7,
+              "Title": "manageMeetingItemsForm.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAD4v3YAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:19:43.067Z",
+              "WhenOpened": "2024-12-02T14:07:33.192Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "MeetingItemStatus.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingItemStatus.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\MeetingItemStatus.cs",
@@ -178,12 +226,11 @@
               "RelativeToolTip": "DiyasMinuteManagerApp\\Models\\MeetingItemStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:20:18.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:20:18.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MeetingType.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingType.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\MeetingType.cs",
@@ -196,7 +243,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "MeetingItem.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Models\\MeetingItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:19:43.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\Meeting.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Models\\Meeting.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Models\\Meeting.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Models\\Meeting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:19:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeetingTypeRepository.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingTypeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:44:14.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MeetingRepository.cs",
+              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
+              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
+              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
+              "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:43:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MeetingItemStatusRepository.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingItemStatusRepository.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingItemStatusRepository.cs",
@@ -204,12 +299,11 @@
               "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingItemStatusRepository.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAYwEEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:14:13.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T16:14:13.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\DatabaseHelper.cs",
@@ -217,50 +311,11 @@
               "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\DatabaseHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:40:00.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:40:00.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "captureMeetingForm.Designer.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.Designer.cs",
-              "ViewState": "AQIAAIIAAAAAAAAAAAAkwJUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:06:19.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "captureMeetingForm.cs [Design]",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs [Design]",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:11:05.137Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EditMeetingItemForm.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:03:35.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "MeetingItemRepository.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Data\\MeetingItemRepository.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Data\\MeetingItemRepository.cs",
@@ -268,59 +323,11 @@
               "RelativeToolTip": "DiyasMinuteManagerApp\\Data\\MeetingItemRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:42:36.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:42:36.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "manageMeetingItemsForm.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:07:33.192Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "captureMeetingForm.cs",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\captureMeetingForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:06:24.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "manageMeetingItemsForm.cs [Design]",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs [Design]",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\manageMeetingItemsForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:07:13.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\Form1.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\Form1.cs [Design]",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T15:51:21.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\Form1.cs",
@@ -332,17 +339,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EditMeetingItemForm.cs [Design]",
-              "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "RelativeDocumentMoniker": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs",
-              "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs [Design]",
-              "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T14:03:33.224Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 18,
               "Title": "EditMeetingItemForm.resx",
               "DocumentMoniker": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.resx",
@@ -350,7 +346,8 @@
               "ToolTip": "C:\\github projects\\Diya-sMinuteManager\\DiyasMinuteManagerApp\\DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.resx",
               "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-12-02T15:01:14.915Z"
+              "WhenOpened": "2024-12-02T15:01:14.915Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -362,7 +359,8 @@
               "RelativeToolTip": "DiyasMinuteManagerApp\\Forms\\EditMeetingItemForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T15:00:56.88Z"
+              "WhenOpened": "2024-12-02T15:00:56.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

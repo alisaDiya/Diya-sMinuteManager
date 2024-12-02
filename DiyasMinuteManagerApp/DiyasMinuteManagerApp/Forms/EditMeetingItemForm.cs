@@ -36,5 +36,10 @@ namespace DiyasMinuteManagerApp.Forms
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

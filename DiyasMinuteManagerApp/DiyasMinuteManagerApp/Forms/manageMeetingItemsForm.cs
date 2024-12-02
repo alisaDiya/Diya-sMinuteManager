@@ -99,7 +99,7 @@ namespace DiyasMinuteManagerApp.Forms
             var selectedItem = lvMeetingItems.SelectedItems[0];
             var itemStatus = (MeetingItemStatus)selectedItem.Tag;
 
-          
+
             var editForm = new EditMeetingItemForm(itemStatus);
             if (editForm.ShowDialog() == DialogResult.OK)
             {
@@ -112,6 +112,11 @@ namespace DiyasMinuteManagerApp.Forms
 
                 MessageBox.Show("Meeting item updated successfully!");
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

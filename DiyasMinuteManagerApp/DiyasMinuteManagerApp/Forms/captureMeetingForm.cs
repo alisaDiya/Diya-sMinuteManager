@@ -147,5 +147,15 @@ namespace DiyasMinuteManagerApp.Forms
             txtResponsiblePerson.Text = "";
             txtStatus.Text = "";
         }
+
+        private void txtNewItemDescription_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void captureMeetingForm_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

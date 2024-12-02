@@ -102,7 +102,8 @@
             Controls.Add(btnManageMeetingItem);
             Controls.Add(btnCaptureMeeting);
             Name = "Form1";
-            Text = "Form1";
+            Sizable = false;
+            Text = "Minutes Management System";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
