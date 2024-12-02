@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiyasMinuteManagerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5c7903789cf96f0b255a423786ff60b2a8e4cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eb074735f1f4475a78c3e72b1c7c1a050d02362")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiyasMinuteManagerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiyasMinuteManagerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
