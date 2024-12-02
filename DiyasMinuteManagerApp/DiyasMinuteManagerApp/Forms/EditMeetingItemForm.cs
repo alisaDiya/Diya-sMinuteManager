@@ -1,4 +1,5 @@
-﻿using MaterialSkin;
+﻿using DiyasMinuteManagerApp.Models;
+using MaterialSkin;
 using MaterialSkin.Controls;
 using System;
 using System.Collections.Generic;
@@ -14,9 +15,15 @@ namespace DiyasMinuteManagerApp.Forms
 {
     public partial class EditMeetingItemForm : MaterialForm
     {
-        public EditMeetingItemForm()
+        private MeetingItemStatus meetingItemStatus;
+        public EditMeetingItemForm(MeetingItemStatus itemStatus)
         {
             InitializeComponent();
+            meetingItemStatus = itemStatus;
+
+            // Populate fields
+            txtStatus.Text = meetingItemStatus.Status;
+            txtResponsiblePerson.Text = meetingItemStatus.ResponsiblePerson;
             var materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
@@ -26,6 +33,16 @@ namespace DiyasMinuteManagerApp.Forms
         private void EditMeetingItemForm_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnSave_Click(object sender, EventArgs e)
+        {
+            meetingItemStatus.Status = txtStatus.Text.Trim();
+            meetingItemStatus.ResponsiblePerson = txtResponsiblePerson.Text.Trim();
+
+            // Close the form and indicate success
+            this.DialogResult = DialogResult.OK;
+            this.Close();
         }
     }
 }

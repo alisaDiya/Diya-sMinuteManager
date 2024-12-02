@@ -28,19 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            comboBox1 = new ComboBox();
+            cbMeetingType = new ComboBox();
             lvMeetingItems = new ListView();
             lbMeetings = new ListBox();
             btnUpdateItem = new MaterialSkin.Controls.MaterialButton();
             SuspendLayout();
             // 
-            // comboBox1
+            // cbMeetingType
             // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(266, 98);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 0;
+            cbMeetingType.FormattingEnabled = true;
+            cbMeetingType.Location = new Point(266, 98);
+            cbMeetingType.Name = "cbMeetingType";
+            cbMeetingType.Size = new Size(151, 28);
+            cbMeetingType.TabIndex = 0;
             // 
             // lvMeetingItems
             // 
@@ -77,6 +77,7 @@
             btnUpdateItem.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             btnUpdateItem.UseAccentColor = false;
             btnUpdateItem.UseVisualStyleBackColor = true;
+            btnUpdateItem.Click += btnUpdateItem_Click;
             // 
             // manageMeetingItemsForm
             // 
@@ -86,7 +87,7 @@
             Controls.Add(btnUpdateItem);
             Controls.Add(lbMeetings);
             Controls.Add(lvMeetingItems);
-            Controls.Add(comboBox1);
+            Controls.Add(cbMeetingType);
             Name = "manageMeetingItemsForm";
             Text = "manageMeetingItemsForm";
             Load += manageMeetingItemsForm_Load;
@@ -96,7 +97,7 @@
 
         #endregion
 
-        private ComboBox comboBox1;
+        private ComboBox cbMeetingType;
         private ListView lvMeetingItems;
         private ListBox lbMeetings;
         private MaterialSkin.Controls.MaterialButton btnUpdateItem;
