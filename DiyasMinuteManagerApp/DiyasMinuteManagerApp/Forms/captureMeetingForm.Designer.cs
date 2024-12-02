@@ -148,7 +148,6 @@
             Controls.Add(cbMeetingType);
             Name = "captureMeetingForm";
             Text = "captureMeetingForm";
-            Load += captureMeetingForm_Load;
             ResumeLayout(false);
             PerformLayout();
         }

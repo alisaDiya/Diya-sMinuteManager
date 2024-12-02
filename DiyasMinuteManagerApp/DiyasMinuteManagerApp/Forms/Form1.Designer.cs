@@ -91,6 +91,7 @@
             btnExit.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             btnExit.UseAccentColor = false;
             btnExit.UseVisualStyleBackColor = true;
+            btnExit.Click += btnExit_Click;
             // 
             // Form1
             // 

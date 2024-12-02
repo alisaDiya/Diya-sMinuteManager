@@ -4,36 +4,32 @@ using MaterialSkin;
 using MaterialSkin.Controls;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace DiyasMinuteManagerApp.Forms
 {
     public partial class captureMeetingForm : MaterialForm
     {
+        // Fields for storing meeting items and types
         private List<MeetingItemStatus> previousMeetingItems = new List<MeetingItemStatus>();
         private List<MeetingItemStatus> newMeetingItems = new List<MeetingItemStatus>();
         private List<MeetingType> meetingTypes = new List<MeetingType>();
+
+        // Constructor for form initialization
         public captureMeetingForm()
         {
             InitializeComponent();
-            LoadMeetingTypes();
+            LoadMeetingTypes(); // Load meeting types into ComboBox
             cbMeetingType.SelectedIndexChanged += cbMeetingType_SelectedIndexChanged;
+
+            // Configure Material Design theme and color scheme
             var materialSkinManager = MaterialSkinManager.Instance;
             materialSkinManager.AddFormToManage(this);
             materialSkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
             materialSkinManager.ColorScheme = new ColorScheme(Primary.BlueGrey800, Primary.BlueGrey900, Primary.BlueGrey500, Accent.LightBlue200, TextShade.WHITE);
         }
 
-        private void captureMeetingForm_Load(object sender, EventArgs e)
-        {
-
-        }
+        // Load meeting types into ComboBox
         private void LoadMeetingTypes()
         {
             meetingTypes = MeetingTypeRepository.GetMeetingTypes();
@@ -42,11 +38,13 @@ namespace DiyasMinuteManagerApp.Forms
             cbMeetingType.ValueMember = "MeetingTypeID";
         }
 
+        // Event handler for meeting type selection change
         private void cbMeetingType_SelectedIndexChanged(object sender, EventArgs e)
         {
-            LoadPreviousMeetingItems();
+            LoadPreviousMeetingItems(); // Load previous meeting items based on selected type
         }
 
+        // Load previous meeting items for selected meeting type
         private void LoadPreviousMeetingItems()
         {
             if (cbMeetingType.SelectedItem == null)
@@ -60,6 +58,7 @@ namespace DiyasMinuteManagerApp.Forms
                 previousMeetingItems = MeetingItemStatusRepository.GetMeetingItemsByMeetingId(previousMeeting.MeetingID);
                 lvPreviousMeetingItems.Items.Clear();
 
+                // Add previous items to ListView
                 foreach (var item in previousMeetingItems)
                 {
                     ListViewItem listViewItem = new ListViewItem(item.MeetingItem.Description);
@@ -75,6 +74,7 @@ namespace DiyasMinuteManagerApp.Forms
             }
         }
 
+        // Save meeting and items
         private void materialButton1_Click(object sender, EventArgs e)
         {
             if (cbMeetingType.SelectedItem == null)
@@ -83,16 +83,15 @@ namespace DiyasMinuteManagerApp.Forms
                 return;
             }
 
+            // Create and save new meeting
             var meeting = new Meeting
             {
                 MeetingTypeID = (int)cbMeetingType.SelectedValue,
                 MeetingDateTime = dtpMeetingDateTime.Value
             };
-
-            // Save meeting and get MeetingID
             int meetingId = MeetingRepository.AddMeeting(meeting);
 
-            // Add selected previous meeting items
+            // Save selected previous meeting items
             foreach (ListViewItem selectedItem in lvPreviousMeetingItems.Items)
             {
                 if (selectedItem.Checked)
@@ -103,10 +102,9 @@ namespace DiyasMinuteManagerApp.Forms
                 }
             }
 
-            // Add new meeting items
+            // Save new meeting items
             foreach (var newItemStatus in newMeetingItems)
             {
-                // Save new MeetingItem and get MeetingItemID
                 int meetingItemId = MeetingItemRepository.AddMeetingItem(newItemStatus.MeetingItem);
                 newItemStatus.MeetingItemID = meetingItemId;
                 newItemStatus.MeetingID = meetingId;
@@ -117,6 +115,7 @@ namespace DiyasMinuteManagerApp.Forms
             this.Close();
         }
 
+        // Add new meeting item to list
         private void btnAddNewItem_Click(object sender, EventArgs e)
         {
             string description = txtNewItemDescription.Text.Trim();
@@ -129,11 +128,7 @@ namespace DiyasMinuteManagerApp.Forms
                 return;
             }
 
-            var newItem = new MeetingItem
-            {
-                Description = description
-            };
-
+            var newItem = new MeetingItem { Description = description };
             var newItemStatus = new MeetingItemStatus
             {
                 MeetingItem = newItem,
@@ -142,10 +137,12 @@ namespace DiyasMinuteManagerApp.Forms
             };
 
             newMeetingItems.Add(newItemStatus);
+
+            // Refresh ListBox with new items
             lbNewMeetingItems.DataSource = null;
             lbNewMeetingItems.DataSource = newMeetingItems.Select(i => i.MeetingItem.Description).ToList();
 
-            // Clear inputs
+            // Clear input fields
             txtNewItemDescription.Text = "";
             txtResponsiblePerson.Text = "";
             txtStatus.Text = "";

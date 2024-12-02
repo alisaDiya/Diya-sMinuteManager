@@ -14,8 +14,11 @@ using System.Windows.Forms;
 
 namespace DiyasMinuteManagerApp.Forms
 {
+    // Form for managing meeting items, inheriting from MaterialForm
     public partial class manageMeetingItemsForm : MaterialForm
     {
+        // Fields for storing meeting-related data
+
         private List<MeetingType> meetingTypes = new List<MeetingType>();
         private List<Meeting> meetings = new List<Meeting>();
         private List<MeetingItemStatus> meetingItems = new List<MeetingItemStatus>();
@@ -25,6 +28,7 @@ namespace DiyasMinuteManagerApp.Forms
         {
             InitializeComponent();
             LoadMeetingTypes();
+            // Attach event handlers for dropdown and listbox selection changes
             cbMeetingType.SelectedIndexChanged += cbMeetingType_SelectedIndexChanged;
             lbMeetings.SelectedIndexChanged += lbMeetings_SelectedIndexChanged;
             var materialSkinManager = MaterialSkinManager.Instance;
@@ -37,6 +41,7 @@ namespace DiyasMinuteManagerApp.Forms
         {
 
         }
+        // Method to load meeting types into the ComboBox--> Binds the data 
         private void LoadMeetingTypes()
         {
             meetingTypes = MeetingTypeRepository.GetMeetingTypes();
@@ -49,7 +54,7 @@ namespace DiyasMinuteManagerApp.Forms
         {
             if (cbMeetingType.SelectedItem == null)
                 return;
-
+            // Bind data to ListBox
             int meetingTypeId = (int)cbMeetingType.SelectedValue;
             meetings = MeetingRepository.GetMeetingsByType(meetingTypeId);
             lbMeetings.DataSource = meetings.Select(m => $"Meeting ID: {m.MeetingID}, Date: {m.MeetingDateTime}").ToList();
@@ -63,9 +68,11 @@ namespace DiyasMinuteManagerApp.Forms
             int index = lbMeetings.SelectedIndex;
             selectedMeeting = meetings[index];
 
+            // Load meeting items for the selected meeting
             LoadMeetingItems();
         }
 
+        // Method to load meeting items into the ListView
         private void LoadMeetingItems()
         {
             meetingItems = MeetingItemStatusRepository.GetMeetingItemsByMeetingId(selectedMeeting.MeetingID);
@@ -92,7 +99,7 @@ namespace DiyasMinuteManagerApp.Forms
             var selectedItem = lvMeetingItems.SelectedItems[0];
             var itemStatus = (MeetingItemStatus)selectedItem.Tag;
 
-            // Show a dialog or form to edit the status and responsible person
+          
             var editForm = new EditMeetingItemForm(itemStatus);
             if (editForm.ShowDialog() == DialogResult.OK)
             {

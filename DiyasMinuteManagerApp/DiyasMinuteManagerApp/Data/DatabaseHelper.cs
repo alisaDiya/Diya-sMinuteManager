@@ -3,13 +3,13 @@ using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
-
-
 namespace DiyasMinuteManagerApp.Data
 {
     public static class DatabaseHelper
     {
+        // Static field to store the connection string
         private static readonly string connectionString;
+        // Static constructor to initialize the connection string
         static DatabaseHelper()
         {
             try
@@ -26,11 +26,14 @@ namespace DiyasMinuteManagerApp.Data
             }
         }
 
+
+        // Method to get a new SQL connection instance
         public static SqlConnection GetConnection()
         {
             return new SqlConnection(connectionString);
         }
 
+        // Execute a non-query command (INSERT, UPDATE, DELETE)
         public static int ExecuteNonQuery(string commandText, CommandType commandType, params SqlParameter[] parameters)
         {
             try
@@ -55,6 +58,7 @@ namespace DiyasMinuteManagerApp.Data
             }
         }
 
+        // Execute a command that returns a single value
         public static object ExecuteScalar(string commandText, CommandType commandType, params SqlParameter[] parameters)
         {
             try
@@ -78,6 +82,8 @@ namespace DiyasMinuteManagerApp.Data
                 throw;
             }
         }
+
+        // Execute a query that returns multiple rows (e.g., SELECT)
         public static DataTable ExecuteQuery(string commandText, CommandType commandType, params SqlParameter[] parameters)
         {
             using (var conn = GetConnection())
@@ -99,7 +105,7 @@ namespace DiyasMinuteManagerApp.Data
             }
         }
 
-
+        // Method to log errors for troubleshooting
         private static void LogError(string methodName, string commandText, Exception ex)
         {
             // Implement logging here (e.g., log to a file, database, or monitoring system)

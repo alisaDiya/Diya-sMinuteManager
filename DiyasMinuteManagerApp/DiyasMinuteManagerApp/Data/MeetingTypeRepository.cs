@@ -12,9 +12,14 @@ namespace DiyasMinuteManagerApp.Data
     {
         public static List<MeetingType> GetMeetingTypes()
         {
+            // SQL query to fetch MeetingTypeID and TypeName from the MeetingType table
             string query = "SELECT MeetingTypeID, TypeName FROM MeetingType";
+
+
+            // Executes the query and returns the result as a DataTable
             DataTable dt = DatabaseHelper.ExecuteQuery(query, CommandType.Text);
 
+            // Initialize an empty list to store MeetingType objects
             var types = new List<MeetingType>();
             foreach (DataRow row in dt.Rows)
             {

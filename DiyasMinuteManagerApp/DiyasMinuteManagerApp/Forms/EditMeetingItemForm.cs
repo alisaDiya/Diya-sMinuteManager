@@ -1,27 +1,20 @@
 ﻿using DiyasMinuteManagerApp.Models;
 using MaterialSkin;
 using MaterialSkin.Controls;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace DiyasMinuteManagerApp.Forms
 {
+    // Form for editing meeting items, inheriting from MaterialForm
     public partial class EditMeetingItemForm : MaterialForm
     {
         private MeetingItemStatus meetingItemStatus;
+
+        // Constructor for the form, taking a MeetingItemStatus object as a parameter
         public EditMeetingItemForm(MeetingItemStatus itemStatus)
         {
             InitializeComponent();
+            // Populate form fields with data from the provided MeetingItemStatus object
             meetingItemStatus = itemStatus;
-
-            // Populate fields
             txtStatus.Text = meetingItemStatus.Status;
             txtResponsiblePerson.Text = meetingItemStatus.ResponsiblePerson;
             var materialSkinManager = MaterialSkinManager.Instance;
@@ -37,10 +30,9 @@ namespace DiyasMinuteManagerApp.Forms
 
         private void btnSave_Click(object sender, EventArgs e)
         {
+            // Update the MeetingItemStatus object with the values entered in the form
             meetingItemStatus.Status = txtStatus.Text.Trim();
             meetingItemStatus.ResponsiblePerson = txtResponsiblePerson.Text.Trim();
-
-            // Close the form and indicate success
             this.DialogResult = DialogResult.OK;
             this.Close();
         }

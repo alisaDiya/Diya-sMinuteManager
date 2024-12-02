@@ -8,6 +8,7 @@ namespace DiyasMinuteManagerApp.Models
 {
     public class MeetingItem
     {
+        /// Unique identifier for the meeting.
         public int MeetingItemID { get; set; }
         public string Description { get; set; }
     }
