@@ -13,6 +13,8 @@ The **Minutes Management System** is a Windows Forms application developed to st
 
 ---
 ## Demo video of how to use the application
+https://youtu.be/eZHQIpHPkSc
+---
 ## Features
 
 ### Meeting Management
