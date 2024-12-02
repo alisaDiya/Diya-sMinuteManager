@@ -41,5 +41,10 @@ namespace DiyasMinuteManagerApp.Forms
         {
 
         }
+
+        private void materialButton1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

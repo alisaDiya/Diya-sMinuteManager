@@ -157,5 +157,10 @@ namespace DiyasMinuteManagerApp.Forms
         {
 
         }
+
+        private void materialButton2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
