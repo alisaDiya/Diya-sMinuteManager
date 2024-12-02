@@ -51,6 +51,7 @@
             btnCaptureMeeting.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             btnCaptureMeeting.UseAccentColor = false;
             btnCaptureMeeting.UseVisualStyleBackColor = true;
+            btnCaptureMeeting.Click += btnCaptureMeeting_Click;
             // 
             // btnManageMeetingItem
             // 
@@ -70,6 +71,7 @@
             btnManageMeetingItem.Type = MaterialSkin.Controls.MaterialButton.MaterialButtonType.Contained;
             btnManageMeetingItem.UseAccentColor = false;
             btnManageMeetingItem.UseVisualStyleBackColor = true;
+            btnManageMeetingItem.Click += btnManageMeetingItem_Click;
             // 
             // btnExit
             // 
