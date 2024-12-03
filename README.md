@@ -1,12 +1,5 @@
 # Minutes Management Application - Windows Forms
 
-
-### Please take note -- > if the application does not run , its due to the connection string in the app.config file , you would need to replace my server name with your laptop server name , i have included the SQL script but please ensure you name your database , 'DiyaMinuteFinal' for the name of your database needs to correspond with the name in the datahelper class , if not you could always changed the name in the datahelper class 
-## i will provide screenshots ( as a guideline) 
-
-
-
-
 ## Application Name
 **Minutes Management System**
 
